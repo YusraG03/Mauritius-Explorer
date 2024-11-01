@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "199516321310",
+    "project_id": "appdev-80ad8",
+    "storage_bucket": "appdev-80ad8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199516321310:android:b5de559d81b22cb528600f",
+        "android_client_info": {
+          "package_name": "com.appdev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy4uPLSGbTRBRpU7uMgkeCHDrb3XGXJDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199516321310:android:33fc582f8cc7cb9c28600f",
+        "android_client_info": {
+          "package_name": "com.yourdomain.mauritiusexplorer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy4uPLSGbTRBRpU7uMgkeCHDrb3XGXJDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
